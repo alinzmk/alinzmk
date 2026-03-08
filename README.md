@@ -1,9 +1,9 @@
 # Hello it's Ali Nazım
-Softawe Developer, Nearly Full Stack
+Computer Engineering graduated Softawe Developer, Nearly Full Stack
 
 ## Tech Stack
-- Languages: Python, Javascript, Typescript(on the way)
-- Frameworks: React, React, React and React
+- Python, Typescript, Relative DB, Redis etc.
+- Frameworks: Next.js, Hono, Nest.js
 - Tools: Git, Docker, VS Code, Vagrant, all of them are easy no problem
   
 ## Let's Connect!
